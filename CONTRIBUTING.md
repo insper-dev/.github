@@ -24,7 +24,7 @@ We follow a **simplified** Gitflow workflow:
 - `main`: production-ready code  
 - `dev`: current development version  
 - `feat/*`: new features  
-- `refac/*`: refactoring code to improve style/performance  
+- `refactor/*`: refactoring code to improve style/performance  
 - `fix/*`: bugfixes  
 - `docs/*`: documentation updates  
 - `test/*`: test-related changes  
