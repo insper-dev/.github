@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Insper Dev Banner](https://raw.githubusercontent.com/insper-dev/.github/main/profile/assets/banner.png)
+<img src="https://raw.githubusercontent.com/insper-dev/.github/main/profile/assets/banner.png" width="900" height="450" alt="Insper Dev Banner">
   
 **Where Insper Computer Science students build together.**
 
