@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Insper Dev Banner](https://raw.githubusercontent.com/insper-dev/.github/main/profile/assets/banner.svg)
+![Insper Dev Banner](https://raw.githubusercontent.com/insper-dev/.github/main/profile/assets/banner.png)
   
 **Where Insper Computer Science students build together.**
 
